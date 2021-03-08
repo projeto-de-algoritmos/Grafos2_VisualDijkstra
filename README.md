@@ -14,7 +14,9 @@ O objetivo do projeto é demonstrar de forma visual o funcionamento do algortimo
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
-
+![](imagem&video/screenshot1.png)
+![](imagem&video/screenshot2.png)
+![](imagem&video/screenshot3.png)
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Pygame<br>
